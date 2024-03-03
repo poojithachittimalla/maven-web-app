@@ -1,8 +1,8 @@
 <html>
 <body>
-<h1><font color='yellow'>Hi Good Evening..... Welcome to Jai TDP Club <font></h1>
-<h2>Thank you Poojitha..... <3 </h2>
-<h3>Call kalpana to join the call </h3>
+<h1><font color='yellow'>Welcome to Jai JANASENA <font></h1>
+<h2>Thank u chitti ..... <3 </h2>
+<h3>Vote for janasena </h3>
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
 
